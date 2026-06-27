@@ -1,36 +1,98 @@
 # Hitech Automation
 
-Hitech Automation is a modern web application designed to showcase industrial automation training, internship programs, and services. The website highlights PLC, SCADA, HMI, VFD, and automation-related courses with a clean, responsive user interface.
+**Live Website:** https://hitech-automation.vercel.app/
+
+Hitech Automation is a modern, responsive website created for **Hitech Automation (PLC Vijayawada)**, an industrial automation solutions and training provider based in Vijayawada, Andhra Pradesh.
+
+The website showcases automation training programs, industrial services, internship opportunities, and contact information in a clean and user-friendly format.
+
+---
+
+## 👤 Project Author
+
+**M. Hema Charan**
+
+---
+
+## 🏢 About Hitech Automation
+
+**Hitech Automation (PLC Vijayawada)** is an industrial automation solutions and training provider established in **1998** in Vijayawada, Andhra Pradesh.
+
+The company delivers turnkey plant automation, supply, and repair services for major industrial clients while offering comprehensive, placement-supported, hands-on training in:
+
+- PLC
+- SCADA
+- VFD
+- Robotics
+- Industrial Automation
+- Real-time Project Training
+
+Hitech Automation focuses on practical learning, industry exposure, and career-oriented training for students, freshers, and working professionals.
+
+---
 
 ## 🚀 Project Overview
 
-This project is built as a frontend web application using TypeScript and Vite. It is suitable for promoting automation training services, displaying course details, sharing internship information, and helping students or professionals contact the institute easily.
+This project is designed to promote Hitech Automation’s services and training programs through a professional web presence.
 
-## 🔗 Live / AI Studio App
+The website helps visitors understand the company’s expertise, available courses, internship support, services, and contact options.
 
-View the app in AI Studio:
-
-https://ai.studio/apps/2cd307fe-6ce5-4b6f-b62d-f9761a2fc76c
+---
 
 ## ✨ Features
 
-- Responsive website layout
-- Clean and modern homepage design
-- Automation training course sections
-- Internship and services information
-- Contact-focused design
-- Fast development setup using Vite
-- TypeScript-based structure
-- Easy deployment-ready project
+- Modern and responsive website design
+- Clean homepage layout
+- Course and training information
+- Industrial automation services section
+- Internship-related content
+- Contact-focused layout
+- Mobile-friendly user interface
+- Fast performance with Vite
+- Easy deployment on Vercel
+
+---
 
 ## 🛠️ Tech Stack
 
-- TypeScript
-- Vite
 - HTML
 - CSS
+- TypeScript
+- Vite
 - Node.js
-- Google AI Studio template
+- Vercel
+
+---
+
+## 📚 Training Areas Covered
+
+Hitech Automation provides training and practical exposure in:
+
+- PLC Programming
+- SCADA Systems
+- HMI Design
+- VFD Drives
+- Robotics
+- Industrial Automation
+- Electrical Control Panels
+- Real-time Industrial Projects
+
+---
+
+## 🏭 Services
+
+Hitech Automation provides industrial automation-related services such as:
+
+- Turnkey plant automation
+- PLC programming
+- SCADA development
+- HMI configuration
+- VFD installation and support
+- Industrial control system repair
+- Automation product supply
+- Maintenance and troubleshooting support
+
+---
 
 ## 📁 Project Structure
 
