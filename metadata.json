@@ -1,0 +1,6 @@
+{
+  "name": "Hitech Automation",
+  "description": "Premium industrial automation training center in Vijayawada offering expert hands-on training in PLC, SCADA, HMI, VFD, and Industrial Instrumentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
